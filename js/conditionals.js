@@ -1,4 +1,4 @@
-//En büyük sayıyı bulma
+//En büyük sayıyı bulma 
 
 var sayi1=67
 var sayi2=78
@@ -13,3 +13,12 @@ if(enBuyuk<sayi2){
 }
 
 console.log("en büyük sayı "+enBuyuk)
+
+//1 den 10 a kadar sayıları yazdırma
+
+var sayi=1
+
+while(sayi<=10){
+    console.log(sayi)
+    sayi++
+}
