@@ -32,3 +32,18 @@ console.log("------------------------")
 for (var i=0; i <=10; i++) {
    console.log(i)
 }
+
+console.log("------------------------")
+
+//iç içe for döngüsü
+
+function sayiUret(standart1 = 50){
+    return Math.ceil(Math.random()*standart1)
+}
+
+for(var i=1;i<6;i++){
+    console.log(i+".kolon")
+    for(var j=0;j<6;j++){
+        console.log(sayiUret())
+    }
+}
