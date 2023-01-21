@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\rabia\js\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\rabia\js\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\rabia\js\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\rabia\js\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
