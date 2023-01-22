@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\rabia\js\CSharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\rabia\js\CSharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\rabia\js\CSharpCourse\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\rabia\js\CSharpCourse\Strings\obj\Debug\Strings.pdb
