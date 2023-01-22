@@ -14,7 +14,7 @@ namespace Loops
             //whileLoop();
             //doWhileLoop();
             //forEachLoop();
-            Console.WriteLine( asalsayi(4));
+            Console.WriteLine(asalsayiMi(4));
             Console.ReadLine();            
         }
 
@@ -55,7 +55,7 @@ namespace Loops
                 Console.WriteLine(item);
             }
         }
-        static Boolean asalsayi(int number)
+        static Boolean asalsayiMi(int number)
         {
             bool result = true; 
         
@@ -66,7 +66,6 @@ namespace Loops
                     result= false;
                 }
             }
-            
             return result;
         }
     }
