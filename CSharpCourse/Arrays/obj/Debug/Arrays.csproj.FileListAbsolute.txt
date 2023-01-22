@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\rabia\js\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\rabia\js\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\rabia\js\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\rabia\js\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
