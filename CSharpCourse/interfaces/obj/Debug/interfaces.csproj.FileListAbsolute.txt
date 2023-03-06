@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\interfaces\bin\Debug\interfaces.exe.config
+C:\Users\rabia\js\CSharpCourse\interfaces\bin\Debug\interfaces.exe
+C:\Users\rabia\js\CSharpCourse\interfaces\bin\Debug\interfaces.pdb
+C:\Users\rabia\js\CSharpCourse\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\interfaces\obj\Debug\interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\interfaces\obj\Debug\interfaces.exe
+C:\Users\rabia\js\CSharpCourse\interfaces\obj\Debug\interfaces.pdb
