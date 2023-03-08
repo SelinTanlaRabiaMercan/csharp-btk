@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\rabia\js\CSharpCourse\inheritance\bin\Debug\inheritance.exe
+C:\Users\rabia\js\CSharpCourse\inheritance\bin\Debug\inheritance.pdb
+C:\Users\rabia\js\CSharpCourse\inheritance\obj\Debug\inheritance.exe
+C:\Users\rabia\js\CSharpCourse\inheritance\obj\Debug\inheritance.pdb
