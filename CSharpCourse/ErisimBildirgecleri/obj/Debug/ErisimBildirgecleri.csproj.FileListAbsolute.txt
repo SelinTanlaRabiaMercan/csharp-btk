@@ -1,0 +1,8 @@
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\bin\Debug\ErisimBildirgecleri.exe.config
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\bin\Debug\ErisimBildirgecleri.exe
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\bin\Debug\ErisimBildirgecleri.pdb
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\obj\Debug\ErisimBildirgecleri.csproj.AssemblyReference.cache
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\obj\Debug\ErisimBildirgecleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\obj\Debug\ErisimBildirgecleri.csproj.CoreCompileInputs.cache
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\obj\Debug\ErisimBildirgecleri.exe
+C:\Users\rabia\js\CSharpCourse\ErisimBildirgecleri\obj\Debug\ErisimBildirgecleri.pdb
